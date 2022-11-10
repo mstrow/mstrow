@@ -1,3 +1,3 @@
 # Hi there 👋
 
-[![mstrow's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstrow)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mstrow)](https://github.com/anuraghazra/github-readme-stats)
