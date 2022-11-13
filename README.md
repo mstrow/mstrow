@@ -4,4 +4,4 @@
 
 ## My weather
 <img
- src="https://w.bookcdn.com/weather/picture/32_18073_1_1_3498db_250_2980b9_ffffff_ffffff_1_2071c9_ffffff_0_6.png?scode=2&domid=w209&anc_id=1573" />
+ src="https://capture-website-api.herokuapp.com/capture?url=https://widgets.niwa.co.nz/summaries/nz/42910430/3/white&width=800&height=200" />
